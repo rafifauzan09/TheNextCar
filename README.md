@@ -9,4 +9,3 @@ Modul 3
 3. menyediakan data yang akan diolah oleh DoorController.cs seperti menutup atau mengunci pintu
 
 4. untuk menampilkan pesan atau status dari pintu dan security
-
