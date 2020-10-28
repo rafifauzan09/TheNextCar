@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TheNextCar.Controller.AccubaterryController">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAQAAAAAAAAAAAAAAAAEABAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Controller\AccubaterryController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheNextCar.Controller.Car">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAAIBAAQAAACAAAAgAAJAAQFAAAEAAAAAAAAQAAA=</HashCode>
+      <FileName>Controller\Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheNextCar.Controller.DoorController">
+    <Position X="6.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAgAAAQACAAAAQAAAAIAAAAAIAAAAAAAAg=</HashCode>
+      <FileName>Controller\DoorController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheNextCar.Model.Accubattery">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAEAAAABAIAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Accubattery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheNextCar.Model.Door">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAIAAQACAAAAAAQAAAAAAAAIAAAAAAAAg=</HashCode>
+      <FileName>Model\Door.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheNextCar.App">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheNextCar.MainWindow" BaseTypeListCollapsed="true">
+    <Position X="2.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAACAAAAAQFIIAAAAAAAAAAAAAAEAAQAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="TheNextCar.Controller.OnPowerChanged">
+    <Position X="6.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controller\AccubaterryController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TheNextCar.Controller.OnCarEngineStatusChanged">
+    <Position X="2.75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controller\Car.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TheNextCar.Controller.OnDoorChanged">
+    <Position X="4.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controller\DoorController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
