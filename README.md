@@ -10,4 +10,3 @@ Modul 3
 
 4. untuk menampilkan pesan atau status dari pintu dan security
 
-![alt text](https://github.com/Rifqilkumarajaya/TheNextCar/blob/main/ClassDiagram.png)
